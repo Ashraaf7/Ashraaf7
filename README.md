@@ -3,7 +3,7 @@
 ## Hi there, I'm Ahmed Ashraf 👋
 ## I am a software engineer, always happy to learn new things.
 - 📚 Studying at the Faculty of Computer and Information Sciences - ASU year 3.
-- 🌱 I’m currently learning everything 🤣
+- CS Department
 - 📌 Lives in Cairo, Egypt.
 
 
